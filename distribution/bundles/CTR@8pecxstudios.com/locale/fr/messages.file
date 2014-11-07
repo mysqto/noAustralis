@@ -1,0 +1,3 @@
+popup.title=Personnaliser Cyberfox
+popup.msg.restart=Cyberfox doit être redémarré pour que les changements de configuration soient pris en compte.\nVoulez-vous redémarrer maintenant ?
+import.error=ERROR: Fichier erroné ou modifié !\nAucune donnée ne peut être importée !

@@ -1,0 +1,3 @@
+popup.title=Customize Cyberfox
+popup.msg.restart=Cyberfox tiene que ser reiniciado para que se efectúen los cambios.\n¿Reiniciar ahora?
+import.error=ERROR: ¡Se encontró un fichero erróneo o modificado!\n¡No se pudo importar nada!
